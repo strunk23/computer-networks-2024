@@ -6,7 +6,7 @@ All information and required sources will be attached in the related MS Teasm ch
 
 ### Requirements
 
-  * Proficiency in command line interface of Linux operating system
+    * Proficiency in command line interface of Linux operating system
     * editing, previewing, saving files
     * reviewing documentation of the man software
     * modifying command behavior through arguments and switches
@@ -14,6 +14,7 @@ All information and required sources will be attached in the related MS Teasm ch
 ### Software
 
   * **cisco packet tracer**
+  * docker
   * virtualbox
   * https://www.draw.io/
 
