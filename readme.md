@@ -27,7 +27,7 @@ All information and required sources will be attached in the related MS Teasm ch
 ### Subjects
 
 1. [Operating system in a networked environment](01-os-network/os.md)
-2. [Setting network parameters](02-cwiczenia/network-properties.md)
+2. [Setting network parameters](02-properties/network-properties.md)
 3. [Networking, client-server communication](#)
 4. [Routing tables](#)
 5. [IP addressing](#)
